@@ -1,0 +1,14 @@
+{
+  "name": "kafka-example",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "author": {
+    "name": "Stark Jeon",
+    "url": "https://github.com/Jeontaeyun",
+    "email": "a01058406602@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "kafka-node": "^5.0.0"
+  }
+}
